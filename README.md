@@ -1,4 +1,4 @@
-# QMAP Activation Script for Modems
+# QMAP Activation Script for Modems in Android Devices
 
 This repository provides a shell script that activates QMAP (Qualcomm MSM Interface) on modems connected via `cdc-wdm` interfaces. QMAP enhances data throughput by aggregating multiple data streams into a single IP session over the modem.
 
